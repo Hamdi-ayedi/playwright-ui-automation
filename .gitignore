@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Test artifacts
+report.html
+test-results/
+playwright-report/
+*.png
+*.webm
+trace.zip
